@@ -1,0 +1,33 @@
+{
+  "name": "playing-with-react",
+  "version": "1.0.0",
+  "description": "just plating",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EugenLeshchov/playing-with-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "eugenleshchov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EugenLeshchov/playing-with-react/issues"
+  },
+  "homepage": "https://github.com/EugenLeshchov/playing-with-react#readme",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^1.14.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0"
+  }
+}
